@@ -7,9 +7,15 @@ O evento CodeChallenge é um intensivo, com uma carga horária estipulada para c
 # Cénario
 Desenvolver um sistema de gereciamento de Saúde Mental. Onde o usuário informa sua saúde, sendo Boa, Ruim, Ótima ou Excelente. caso tenha crise possa ter um campo de ajuda, ou algo para que o usuário faça um comentário.
 
-<h3>Projeto</h3>
+<h3>Proposta</h3>
 
-Desenvolvido campos onde o usuários pode informar usuário, email, senha, confirmar senha entre outros. campos de texto para o usuário informar as crises emtre outros
+Desenvolvido campos onde o usuários pode informar usuário, email, senha, confirmar senha entre outros. campos de texto para o usuário informar crises e ajuda
 
-requisitos em
-requirements,txt
+<h4>Participantes</h4>
+
+CamilaFreitass 
+weblerson
+joaocesarz
+
+<h4>requisitos</h4>
+requirements.txt
